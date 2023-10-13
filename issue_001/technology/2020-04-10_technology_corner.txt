@@ -1,0 +1,65 @@
+Technology Corner
+
+By Stuart Piddle
+
+From Penny: My internet stopped and my provider says no it didn't.  What should I do to start my internet?
+
+Stu says: I can't emphasize enough the interconnectedness of all things.
+
+Sometimes we want to find a solution to a problem affecting X.  But the problem is actually caused by Y.  So if we buy a new Z, we end up solving the problem quickly, rather than spending a lot of time trying to do root cause analysis on X.
+
+Let me give you an example.
+
+Last summer, our dishwasher broke down.  It was my wife's fault: she didn't tell me not to put our big crock pot in the top shelf.
+
+As always, I'll do my best to bring the incredibly complicated technical events that ensued down to a common level, by explaining what happened in layman's terms: Bang!  Bang!  Bang!  Buddabuddabuddabudda zzzzzzzzzzzzzzzzzzz Shploom!
+
+When my wife got home from work, she asked what the fuck I'd done, and I told her it's your fault, you didn't tell me not to put the crock pot on the top shelf of the dishwasher, and she said all kinds of uneducated things that I quickly corrected with my deep technical knowledge.
+
+"What are you going to do to fix it?" she asked.
+
+The million dollar question!
+
+Well, you see, this was one of those X-Y-Z problems.
+
+The dishwasher was broken.
+
+It was caused by the crockpot.  (Actually it wasn't the crockpot's fault; it was really caused by my wife.)
+
+That day, there was a sale on at the Best Yellow electronics store.  I knew, because I keep flyers.
+
+Do you keep flyers, Penny?
+
+I can't emphasize enough how important it is to keep flyers.  You never know when they'll solve a problem for you.
+
+So last year when my wife broke our dishwasher, I went down to Best Yellow electronics and bought a new toaster.
+
+There, you see?  All things are interconnected.  X-Y-Z.  Problem solved.
+
+As it happens, Best Yellow electronics has a sale on toasters today.  I know because I kept the flyer.
+
+Penny, perhaps it is time for you to buy a new toaster.
+
+* * *
+
+Mobile Phone App Review: X-Ray Clothes Remover
+
+by Stuart Piddle
+
+My wife caught me playing with this new mobile phone app, the X-Ray Clothes Remover, so I decided to start a column reviewing phone apps.
+
+If you have a mobile phone with an infrared fingerprint sensor, this app is for you.
+
+X-Ray Clothes Remover allows you to hold your fingerprint scanner out and take a photo or video of a hot chick, like the one who brings your groceries out to the trunk of your car if you shop at the supermarket.
+
+The user interface is unlike anything I've ever seen, so it must be good.  I mean, there were standards developed in the 1980s and into the 1990s for user interfaces, and even whole books written about the academic studies that were done to arrive at those user interface best practices (take, for example, the monstrously long Computer Graphics: Principles and Practice).  But seriously, who wants to read 1,200 pages of that stuff, just to come up with a user interface that is standard and familiar to millions, maybe billions, of users?
+
+I, for one, am glad that every mobile app comes with a non-standard user interface.  And X-Ray Clothes Remover is the best example of non-standardization I've seen in a long time.
+
+The best part about it is how I can't tell whether the button I'm about to press is part of the app or a paid advertisement for a porn site.
+
+My friend, Brian the neurologist, says that randomness keeps us learning, keeps us engaged and thinking, especially in a time when nobody has any discipline and can't be bothered reading a book any more.  Brian says: "Respect the unexpected."
+
+I'm also glad at all the permissions I had to allow in order to use an app to scan women's boobies.  For some reason, X-Ray Clothes Remover won't install without permission to access my camera, my microphone, my email, and my credit card.  Clearly there is some complicated technology going on behind the scenes to show me infrared images of boobies, if all of these permissions are required.
+
+The X-Ray Clothes Remover app works with any phone that has a fingerprint sensor.  I highly recommend it.  Especially if your wife catches you ogling infrared nipple images of the hot chick down supermarket way.
